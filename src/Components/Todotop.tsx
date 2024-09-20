@@ -2,7 +2,7 @@
 const Todotop = () => {
   return (
     <div>
-      <input type="text" className="py-16 px-12"/>
+      <input type="text" className=" border border-solid my-4"/>
     </div>
   )
 }
