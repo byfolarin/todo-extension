@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div className="name">Hello Folarin</div>
+      <div className=" mx-auto">Hello Folarin</div>
     </>
   )
 }
