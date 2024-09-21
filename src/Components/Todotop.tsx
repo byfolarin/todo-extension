@@ -1,9 +1,10 @@
 
 const Todotop = () => {
   return (
-    <div className="flex">
-      <input type="text" className=" border border-solid my-4"/>
-      <button className="text-white bg-black text-base  px-4">Add</button>
+    
+    <div className="flex gap-4 mt-4">       
+            <input type="text" className=" border border-solid py-2 rounded-lg"/>
+            <button className="text-white bg-black text-sm rounded-lg px-6">Add</button>   
     </div>
   )
 }
